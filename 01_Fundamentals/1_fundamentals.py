@@ -25,3 +25,4 @@ print('Here is your matrix multiplied by itself:\n{}\n'.format(new_matrix))
 # Transposition
 new_matrix = np.transpose(matrix)
 print('Here is your matrix transposed:\n{}\n'.format(new_matrix))
+#syka
